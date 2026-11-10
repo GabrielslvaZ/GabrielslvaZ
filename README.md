@@ -17,8 +17,8 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Graduando em **Bacharelado em Ciência da Computação** pela Universidade Maurício de Nassau (UNINASSAU) (2024 - 2027).
-- 🌐 **Idiomas:** Português (Nativo) | Inglês (Intermediário).
+- 🎓 Graduando em Bacharelado em Ciência da Computação pela Universidade Maurício de Nassau (UNINASSAU).
+- 🌐 Idiomas: Português (Nativo) | Inglês (Intermediário).
 
 ---
 
