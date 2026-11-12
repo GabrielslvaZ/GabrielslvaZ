@@ -15,14 +15,14 @@
 
 <br />
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
-- 🎓 Graduando em Bacharelado em Ciência da Computação pela Universidade Maurício de Nassau (UNINASSAU).
-- 🌐 Idiomas: Português (Nativo) | Inglês (Intermediário).
+-  Graduando em Bacharelado em Ciência da Computação pela Universidade Maurício de Nassau (UNINASSAU).
+-  Idiomas: Português (Nativo) | Inglês (Intermediário).
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ### Linguagens & Web
 ![Python](https://img.shields.io/badge/Python-Avançado-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/Gabrielslvaz">
